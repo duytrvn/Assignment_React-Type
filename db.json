@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SamSung S22 Ultra",
+      "price": "22000000",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/2/s23-ultra-tim.png",
+      "description": "Thiết kế cao cấp, đường nét thời thượng, tinh tế Tiếp nối thiết kế từ những chiếc Samsung Galaxy S22 Ultra, những chiếc Galaxy S23 Ultra mang dáng vẻ thanh mảnh với những đường nét được gọt giũa chỉnh chu và cực kỳ tinh tế. Với màn hình tràn viền, tỷ lệ màn hình trên thân máy hơn 90% những chiếc điện thoại S23 Ultra hứa hẹn mang đến một thiết kế thời thượng thu hút mọi ánh nhìn.",
+      "categoryId": "SamSung"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 14 ProMax",
+      "price": 28000000,
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png",
+      "description": "iPhone 14 Pro Max là mẫu flagship nổi bật nhất của Apple trong lần trở lại năm 2022 với nhiều cải tiến về công nghệ cũng như vẻ ngoài cao cấp, sang chảnh hợp với gu thẩm mỹ đại chúng. Những chiếc điện thoại đến từ nhà Táo Khuyết nhận được rất nhiều sự kỳ vọng của thị trường ngay từ khi chưa ra mắt. Vậy liệu những chiếc flagship đến từ công ty công nghệ hàng đầu thế giới này có làm bạn thất vọng? Cùng khám phá những điều thú vị về iPhone 14 Pro Max ở bài viết dưới đây nhé.  ",
+      "categoryId": "Iphone"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 13",
+      "price": 17000000,
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/4/14_1_9_2_9.jpg",
+      "description": "Thiết kế với nhiều đột phá Về kích thước, iPhone 13 sẽ có 4 phiên bản khác nhau và kích thước không đổi so với series iPhone 12 hiện tại. Nếu iPhone 12 có sự thay đổi trong thiết kế từ góc cạnh bo tròn (Thiết kế được duy trì từ thời iPhone 6 đến iPhone 11 Pro Max) sang thiết kế vuông vắn (đã từng có mặt trên iPhone 4 đến iPhone 5S, SE).Thì trên điện thoại iPhone 13 vẫn được duy trì một thiết kế tương tự. Máy vẫn có phiên bản khung viền thép, một số phiên bản khung nhôm cùng mặt lưng kính. Tương tự năm ngoái, Apple cũng sẽ cho ra mắt 4 phiên bản là iPhone 13, 13 mini, 13 Pro và 13 Pro Max.",
+      "categoryId": "Iphone"
+    },
+    {
+      "id": 5,
+      "name": " Laptop Gaming Acer Nitro 5 ",
+      "price": 23000000,
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/_/0/_0003_60790_laptop_acer_gaming_nitro_5.jpg",
+      "description": "Thiết kế đậm chất gaming cứng cáp, logo đen sang trọng Laptop Acer Nitro 5 Eagle AN515-57-54MV về vẻ ngoài khá tương tự với các phiên bản Nitro 5 khác. Tổng thể của máy Acer Nitro 5 được hoàn thiện từ nhựa nhám với nắp capo được hoàn thiện cách điệu với các đường gạch chéo giúp tổng thể máy cuốn hút hơn, mạnh mẽ hơn.",
+      "categoryId": "Acer"
+    },
+    {
+      "id": 4,
+      "name": "Apple MacBook Air M1 ",
+      "price": 19000000,
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-air-gold-select-201810_4.jpg",
+      "description": "Macbook Air M1 2020 - Sang trọng, tinh tế, hiệu năng khủng Macbook Air M1 là dòng sản phẩm có thiết kế mỏng nhẹ, sang trọng và tinh tế cùng với đó là giá thành phải chăng nên MacBook Air đã thu hút được đông đảo người dùng yêu thích và lựa chọn. Đây cũng là một trong những phiên bản Macbook Air mới nhất mà khách hàng không thể bỏ qua khi đến với CellphoneS. Dưới đây là chi tiết về thiết kế, cấu hình của máy.",
+      "categoryId": "MacBook"
+    },
+    {
+      "id": 4,
+      "name": "Apple MacBook Air M1 ",
+      "price": 19000000,
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-air-gold-select-201810_4.jpg",
+      "description": "Macbook Air M1 2020 - Sang trọng, tinh tế, hiệu năng khủng Macbook Air M1 là dòng sản phẩm có thiết kế mỏng nhẹ, sang trọng và tinh tế cùng với đó là giá thành phải chăng nên MacBook Air đã thu hút được đông đảo người dùng yêu thích và lựa chọn. Đây cũng là một trong những phiên bản Macbook Air mới nhất mà khách hàng không thể bỏ qua khi đến với CellphoneS. Dưới đây là chi tiết về thiết kế, cấu hình của máy.",
+      "categoryId": "MacBook"
+    },
+    {
+      "id": 4,
+      "name": "Apple MacBook Air M1 ",
+      "price": 19000000,
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-air-gold-select-201810_4.jpg",
+      "description": "Macbook Air M1 2020 - Sang trọng, tinh tế, hiệu năng khủng Macbook Air M1 là dòng sản phẩm có thiết kế mỏng nhẹ, sang trọng và tinh tế cùng với đó là giá thành phải chăng nên MacBook Air đã thu hút được đông đảo người dùng yêu thích và lựa chọn. Đây cũng là một trong những phiên bản Macbook Air mới nhất mà khách hàng không thể bỏ qua khi đến với CellphoneS. Dưới đây là chi tiết về thiết kế, cấu hình của máy.",
+      "categoryId": "MacBook"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 95px;
+}
+.logo img{
+    width: 100%;
+    border-radius: 100%;
+}
